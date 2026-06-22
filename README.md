@@ -1,4 +1,5 @@
 Beyond Population: Understanding the Socioeconomic Drivers of UPI Adoption in India
+
 Project Overview
 
 The Unified Payments Interface (UPI) has transformed India's digital payments ecosystem. This project investigates the socioeconomic factors that drive UPI adoption across Indian states and develops predictive machine learning models to estimate digital payment penetration.
